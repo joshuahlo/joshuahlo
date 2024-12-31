@@ -13,6 +13,11 @@
 - <b>[Hotel Price Prediction Using Supervised and Unsupervised Machine Learning](https://github.com/joshuahlo/HotelPricePrediction)</b>
 
 
+<h2>📕 Publications:</h2>
+
+- <b>[The leishmaniases in Kenya: A scoping review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011358)</b>
+- <b>[Impact of COVID-19 on College Admissions and High Schoolers’ Well-Being](https://ww2.amstat.org/meetings/proceedings/2021/data/assets/pdf/1913750.pdf)</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
