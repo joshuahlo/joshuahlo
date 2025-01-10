@@ -5,6 +5,7 @@
   - <b>My master's degree in Business Analytics at Duke University's Fuqua School of Business. </b>
   - <b>Various data analytics projects to continuously update this portfolio. </b>
   - <b>Finding a career as a Business or Data Analyst. </b>
+  - <b>[Being a Duke University Student-Athlete.](https://goduke.com/sports/fencing/roster/joshua-lo/21689)</b>
 
 
 <h2>👨‍💻 Data Science Projects:</h2>
