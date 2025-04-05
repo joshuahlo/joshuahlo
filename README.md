@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Data Science/Analytics Projects:</h2>
 
-- <b>[Auction Data Insights: Interactive Dashboard](https://github.com/joshuahlo/AuctionDashboard)</b>
+- <b>[Auction Data Insights: Interactive Tableau Dashboard](https://github.com/joshuahlo/AuctionDashboard)</b>
 - <b>[Classifying Images using Deep Learning and Convolutional Neural Networks](https://github.com/joshuahlo/Deep-Learning-CNN)</b>
 - <b>[Hotel Price Prediction Using Supervised and Unsupervised Machine Learning](https://github.com/joshuahlo/HotelPricePrediction)</b>
 - <b>[Hospital Database Management System](https://github.com/joshuahlo/HospitalDatabase)</b>
